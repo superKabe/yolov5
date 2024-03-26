@@ -1,0 +1,5 @@
+val: C:\Users\suder\Documents\Uni Docs\23-24\Sem 2\EMV\Mini_Project\yolov5\BDD100k_YOLOv5\bdd100k\images\val
+train: C:\Users\suder\Documents\Uni Docs\23-24\Sem 2\EMV\Mini_Project\yolov5\BDD100k_YOLOv5\bdd100k\images\train
+
+nc: 10 # number of classes
+names: ['person', 'rider', 'car', 'bus', 'truck', 'bike', 'motor', 'traffic_light', 'traffic_sign', 'train']
